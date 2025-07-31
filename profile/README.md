@@ -7,7 +7,7 @@ This GitHub organization serves as the official **code base** and **project temp
 You are welcome to explore, clone, and follow the repositories as needed.
 
 Join the Slack workspace mentioned during your lectures to take part in discussions and Q&A.<br>
-If you run into any issues, don’t hesitate to reach out via [email](mailto:ijse.eca@gmail.com).
+If you run into any issues, don’t hesitate to reach out via slack or [email](mailto:ijse.eca@gmail.com).
 
 Let’s build cloud-native systems together! ☁️🚀 <br>
 Cheers!
